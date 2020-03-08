@@ -1,0 +1,137 @@
+
+header {
+
+background-image: url(../images/carrots.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height:200px;
+color: navajowhite;
+border:1px solid blue;
+background-color: black;
+}
+
+nav ul {
+    
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav ul li {
+    
+   list-style-type: none;
+    background-color: grey;
+    display: inline;
+    padding: 15px;
+    border: 2px;
+    border border-radius: 10px;
+    
+    
+}
+
+.backgroundImageB {
+    
+background-image: url(../images/bacon.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+color: black;
+border: 3px solid black;
+margin: 2px;
+    
+    
+    
+    
+}
+        
+        
+        
+ 
+.backgroundImageC {
+    
+background-image: url(../images/carrots.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+color: black;
+border: 3px solid black;
+margin: 2px;
+           
+        
+        
+    
+    
+    
+    
+    
+}
+
+
+
+.backgroundImageD {
+    
+background-image: url(../images/eggs.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+color: black;
+border: 3px solid black;
+margin: 2px;
+
+
+
+
+
+
+}
+
+
+
+
+
+body {
+font-style:normal; color:white;}
+    aside 
+    {
+border: .5px solid yellow;
+width: 18.5%;
+float: right;
+        }
+    
+    
+
+
+
+.col_detail {
+column-count: 3;   
+column-rule: 1px solid white;   
+column-gap: 50px;  
+padding:2px;      
+            
+}
+
+
+footer {
+   
+clear:both;
+border: 1px solid orange;
+padding: 0;
+margin: 0;
+position: relative;
+bottom: 0px;
+width: 100%;
+background-color: gray;
+    
+text-align: center;
+    
+    
+    
+   
+    
+    
+
+    
+}
+#AboutUs {
+    float: left;
+width: 80%;
+margin-right: 15px;
+border: 1px solid grey;
+    
+}
